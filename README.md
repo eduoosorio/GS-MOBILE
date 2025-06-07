@@ -13,6 +13,13 @@ Aplicativo mobile desenvolvido em React Native para registrar e acompanhar ocorr
 - 🎨 Design moderno, acessível e responsivo
 - 🖼 Splash screen estilizada com imagem de fundo e botão “Entrar”
 
+
+## 👥 Integrantes
+
+- **RM550161** - Eduardo Osorio Filho  
+- **RM550610** - Fabio Hideki Kamikihara
+
+
 ## 🧪 Tecnologias utilizadas
 
 - React Native (Expo)
